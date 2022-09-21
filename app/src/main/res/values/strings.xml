@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Base10ToOther</string>
+
+    <string-array name="bases_array">
+        <item>BIN</item>
+        <item>OCT</item>
+        <item>HEX</item>
+    </string-array>
+</resources>
